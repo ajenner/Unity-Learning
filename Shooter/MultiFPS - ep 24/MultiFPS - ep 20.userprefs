@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\TileMap Engine\Assets\Drill18\RoomTile.cs">
+    <Files>
+      <File FileName="..\TileMap Engine\Assets\Drill18\MapInitializer.cs" Line="101" Column="13" />
+      <File FileName="..\TileMap Engine\Assets\Drill18\RoomTile.cs" Line="261" Column="26" />
+      <File FileName="..\TileMap Engine\Assets\QTMap\Data\QJob.cs" Line="13" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

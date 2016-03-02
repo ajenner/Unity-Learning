@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiFPS - ep 24.CSharp", "MultiFPS - ep 24.CSharp.csproj", "{7445F880-D621-2D5C-1567-56A7D175BFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiFPS - ep 24.CSharp.Editor", "MultiFPS - ep 24.CSharp.Editor.csproj", "{117E34AA-968E-1CF4-E4C4-64394046845A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7445F880-D621-2D5C-1567-56A7D175BFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7445F880-D621-2D5C-1567-56A7D175BFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7445F880-D621-2D5C-1567-56A7D175BFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7445F880-D621-2D5C-1567-56A7D175BFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117E34AA-968E-1CF4-E4C4-64394046845A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117E34AA-968E-1CF4-E4C4-64394046845A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117E34AA-968E-1CF4-E4C4-64394046845A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117E34AA-968E-1CF4-E4C4-64394046845A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

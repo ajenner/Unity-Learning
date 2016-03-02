@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/ajenner/Desktop/Unity/Unity-Learning/3D world/Assets/world1.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NetworkManager.cs">
+    <Files>
+      <File FileName="Assets\Health.cs" Line="17" Column="1" />
+      <File FileName="Assets\PlayerShooting.cs" Line="77" Column="31" />
+      <File FileName="Assets\TeamMember.cs" Line="6" Column="24" />
+      <File FileName="Assets\NetworkManager.cs" Line="45" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
